@@ -1,3 +1,4 @@
+>**微注**：在[这里](http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/ )率先持续学习/积累/更新。
 
 ## __综合类__
 
