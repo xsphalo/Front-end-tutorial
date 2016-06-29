@@ -56,6 +56,8 @@ visual studio code|https://code.visualstudio.com
 
 综合效果搜索平台 | 地址
 :----:|:----: 
+**JavaScript 资源大全中文版**|https://github.com/jobbole/awesome-javascript-cn
+**100+ 超全的web开发工具和资源**|https://xituqu.com/170.html
 zoommyapp.com|http://zoommyapp.com/ 高质量图库
 unsplash.com|https://unsplash.com/ 高质量图库
 www.pinterest.com|https://www.pinterest.com/ 图库
@@ -64,19 +66,18 @@ New Old Stock|http://nos.twnsnd.co 复古风图库
 花瓣网|http://huaban.com/
 优美图|http://www.topit.me/
 codepen|http://codepen.io/
-17素材|http://www.17sucai.com
 摄图网|http://699pic.com/
 常用的JavaScript代码片段|http://microjs.com
 
-## __周报类__
+## __团队Blog|周报类__
 
 周报类| 地址
 :----:|:----: 
 __奇舞周刊__ | http://old.75team.com/weekly/
 码农周刊|http://weekly.manong.io
-JS前端开发群月报 | http://www.kancloud.cn/jsfront/month/82796
 WEB前端开发|http://www.css88.com
 A JS tip per day! |http://www.jstips.co
+腾讯全端 AlloyTeam |http://www.alloyteam.com/webdevelop/
 平安科技移动开发二队技术周报|https://github.com/PaicHyperionDev/MobileDevWeekly
 
 ## __开发中心__
@@ -153,11 +154,20 @@ Juicer|https://github.com/PaulGuo/Juicer
 dustjs|http://akdubya.github.io/dustjs
 etpl|http://ecomfe.github.io/etpl
 
-## __CSS__
+## **HTML5(HTML)**
+HTML(HTML5) | 地址
+:----:|:----: 
+深入理解HTML5标签|https://segmentfault.com/a/1190000002695791
+如何写出高效率的HTML|https://segmentfault.com/a/1190000002680822
+HTML meta标签总结与属性使用介绍|https://segmentfault.com/a/1190000004279791
+戏说HTML5|http://www.cnblogs.com/dojo-lzz/p/5059316.html
+
+## __CSS3(CSS)__
 
 CSS| 地址
 :----:|:----:    
 CSS 语法参考|http://tympanus.net/codrops/css_reference
+**如何编写可维护的CSS**|https://github.com/chadluo/CSS-Guidelines/blob/master/README.md
 CSS3动画手册|http://isux.tencent.com/css3/index.html
 腾讯css3动画制作工具|http://isux.tencent.com/css3/tools.html
 志爷css小工具集合|http://linxz.github.io/tianyizone
@@ -256,6 +266,7 @@ css88 jq api|http://www.css88.com/jqapi-1.9/on
 css88 jqui api|http://www.css88.com/jquery-ui-api
 学习jquery|http://learn.jquery.com
 jquery 源码查找|http://james.padolsey.com/jquery
+Web前端资源汇总(jQuery,Js,Css3等)|http://www.cnblogs.com/jihua/p/webfront.html
 
 ## __D3__
 
@@ -390,9 +401,9 @@ ruanyifeng - RegExp对象|http://javascript.ruanyifeng.com/stdlib/regexp.html
 is.js|https://github.com/Cedriking/is.js/blob/master/is.js
 正则在线测试|http://regexper.com
 
-## __前端__
+## __前端规范__
 
-前端| 地址
+前端规范| 地址
 :----:|:----: 
 通过分析github代码库总结出来的工程师代码书写习惯|http://alloyteam.github.io/CodeGuide
 HTML&CSS编码规范 by @mdo|http://codeguide.bootcss.com
@@ -533,6 +544,7 @@ wysiwyg|http://www.bootcss.com/p/bootstrap-wysiwyg
 tower用的编辑器|https://github.com/mycolorway/simditor
 summernote 编辑器|https://github.com/summernote/summernote
 html5编辑器|http://neilj.github.io/Squire
+Quilljs编辑器 | http://quilljs.com
 XEditor|http://lab.hustlzp.com/XEditor
 wangEditor|https://github.com/wangfupeng1988/wangEditor 
 
@@ -542,6 +554,7 @@ wangEditor|https://github.com/wangfupeng1988/wangEditor
 :----:|:----: 
 前端工具大全|http://www.awesomes.cn
 什么是前端工程化|https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0#
+[译] 前端攻略-从路人甲到英雄无敌|https://segmentfault.com/a/1190000005174755
 
 ## __Gulp__
 
@@ -807,16 +820,15 @@ pazguille|http://pazguille.me
 
 简历模板|地址
 :----:|:----:
-不错的个人简历|http://learnshare.github.io/about/index.html
 简历|http://hcy2367.github.io/resume
 张伦|http://ncuey.sinaapp.com/CrispElite/ 
 简历|https://github.com/hacke2/ResumeSample
+马斯特|http://pinkyjie.com/resume
+张秋怡|https://joyeecheung.github.io/resume/
 翁天信|http://blog.dandyweng.com/2013/07/how-my-website-was-created
 动画方式的简历|http://www.webhek.com/misc/interactive-resume
 组件丰富简历|http://www.linqing07.com/resume.html
-简历池|http://www.mojianli.com/resume/view
 haorooms博客|http://www.haorooms.com/about
-Justin Young|http://cv.youngdze.com
 
 ## __面试题__
 
@@ -824,11 +836,9 @@ Justin Young|http://cv.youngdze.com
 :----:|:----:
 那几个月在找工作（百度，网易游戏）|http://www.nowcoder.com/discuss/3196
 2014最新面试题|http://www.html-js.com/article/1743
-阿里前端面试题|http://www.w3cfuns.com/thread-5598563-2-1.html
 2016校招内推 -- 阿里巴巴前端 -- 三面面试经历 |http://www.cnblogs.com/imwtr/p/4685546.html
-腾讯面试题|http://www.w3cfuns.com/article-5599657-1-1.html
 年后跳槽那点事：乐视+金山+360面试之行|http://www.cnblogs.com/lvdabao/p/3660707.html
-阿里前端面试题上线|http://fatesinger.com/2722.html
+Interviewing a front-end developer| http://blog.sourcing.io/interview-questions
 拉勾网js面试题|http://www.cnblogs.com/52cik/p/js-question-lg.html
 前端面试|http://www.cnblogs.com/allenxing/p/3724382.html
 Web开发笔试面试题 大全|http://mianshiti.diandian.com
@@ -942,19 +952,16 @@ iOS Simulator|地址
 Simulator| [iOS_Simulator_Guide-Introduction](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
 iOS Simulator的介绍和使用心得|http://www.crifan.com/intro_ios_simulator_in_xcode_and_usage_summary
 
-## __img__
+## __Image__
 
 img|地址
 :----:|:----:
 loading img|http://preloaders.net/en/circular
 智图-图片优化平台|http://zhitu.isux.us
 在线png优化|https://tinypng.com
-
-## __生成二维码__
-
-生成二维码|地址
-:----:|:----:
-生成二维码|http://cli.im
+SM.MS(图床工具～简易好用)|https://sm.ms/
+yutuku：极简图床|http://yotuku.cn/
+Qchan图床|http://tuchuang.org/
 
 ## __浏览器同步__
 
@@ -973,7 +980,8 @@ nodePPT| [nodePPT](http://js8.in/2013/11/16/%E6%8E%A8%E8%8D%90nodeppt%EF%BC%9A%E
 **Cleaver快速制作网页PPT**|http://www.jeffjade.com/2015/10/15/2015-10-16-cleaver-make-ppt/
 **impress.js** | http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html
 PPT|https://github.com/ksky521/nodePPT
-reveal|https://github.com/hakimel/reveal.js
+**reveal**|https://github.com/hakimel/reveal.js
+bespoke-fx|https://github.com/ebow/bespoke-fx
 slippy|https://github.com/Seldaek/slippy
 
 ## __前端导航网站__
@@ -1066,7 +1074,7 @@ Mock.js 是一款模拟数据生成器|http://mockjs.com
 avalonjs|http://avalonjs.github.io
 Avalon新一代UI库： OniUI|http://ued.qunar.com/oniui/index.html
 avalon.oniui-基于avalon的组件库|https://github.com/RubyLouvre/avalon.oniui
-
+生成二维码(草料)|http://cli.im
 
 ## __效果类__
 
@@ -1113,4 +1121,5 @@ SegmentFault写的Markdown解析器|https://github.com/SegmentFault/HyperDown.js
 基于node.js的Ghost博客|https://github.com/TryGhost/Ghost
 学习react的demos|https://github.com/ruanyf/react-demos
 
->转载请保留原链接：http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/
+
+>转载请保留原链接：[http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/](http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)
