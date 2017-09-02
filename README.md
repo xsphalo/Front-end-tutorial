@@ -1,5 +1,24 @@
 >**微注**：在继续学习 & 积累，并率先于[这里](http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/ )持续更新。
 
+
+## [**New Front-end Tutorial**](https://github.com/nicejade/nice-jade-collecting#front-end-tutorial)
+
+- [**Vue** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/vue-tutorial.md)
+- [**React** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/react-tutorial.md)
+- [**Angular** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/angular-tutorial.md)
+- [**Nodejs** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/nodejs-tutorial.md)
+- [**Css3** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/css3-tutorial.md)
+- [**Pwa** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/pwa-tutorial.md)
+- [**Webpack** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/webpack-tutorial.md)
+- [**Gulp** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/gulp-tutorial.md)
+- [**Git** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/git-tutorial.md)
+- [**Mongodb** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/mongodb-tutorial.md)
+- [**Markdown** Tutorial List](https://github.com/nicejade/nice-jade-collecting/blob/master/tutorial/markdown-tutorial.md)
+
+> 你知道，前端发展日新月异，很长一段时间内都将如此。这是一份由[晚晴幽草轩轩主](http://jeffjade.com/About)尝试重新维护的教程列表；将会在日常工作学习中，持续保持更新，增加新秀文章，剔除旧的存在；尽可能使的这 List 保持简练，以避免信息过重且冗杂（Update@2017-08-31)。
+
+---
+
 ## __综合类__
 
 综合类 | 地址
